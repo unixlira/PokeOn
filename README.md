@@ -1,1 +1,5 @@
-[IMG]http://i68.tinypic.com/2w53o60.png[/IMG]
+Projeto desenvolvido em React com integração de API do POKÉMOM.
+Print do projeto rodando em localhost.
+
+
+http://uploaddeimagens.com.br/imagens/ok-png--43
